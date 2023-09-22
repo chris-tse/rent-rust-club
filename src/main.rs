@@ -1,5 +1,5 @@
 mod fizzbuzz;
 
 fn main() {
-    fizzbuzz::fizzBuzz(None);
+    fizzbuzz::fizz_buzz(None);
 }
